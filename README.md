@@ -20,7 +20,13 @@
 
 **Capturas:**
 
-<img src="https://github.com/XimenaLopezMedina03/XimenaLopezMedina03/blob/main/assets/banner.png" alt="Banner" width="100%"/>
+<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/buscarProducto.png" alt="Banner" width="80%"/>
+
+<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/buscarProducto.png" alt="Banner" width="80%"/>
+
+<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/buscarProducto.png" alt="Banner" width="80%"/>
+
+<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/buscarProducto.png" alt="Banner" width="80%"/>
 
 **Autor:**
 Ximena L.

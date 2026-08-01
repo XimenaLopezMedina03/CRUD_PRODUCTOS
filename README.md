@@ -17,3 +17,10 @@
 - Eliminar productos
 - Conexión a MySQL mediante PDO
 - Programación Orientada a Objetos
+
+**Capturas:**
+
+<img src="https://github.com/XimenaLopezMedina03/XimenaLopezMedina03/blob/main/assets/banner.png" alt="Banner" width="100%"/>
+
+**Autor:**
+Ximena L.

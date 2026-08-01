@@ -20,13 +20,33 @@
 
 **Capturas:**
 
-<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/buscarProducto.png" alt="Banner" width="80%"/>
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/buscarProducto.png" alt="Banner" width="80%"/>
+<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/buscarProducto.png" alt="Banner" width="95%"/>
 
-<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/buscarProducto.png" alt="Banner" width="80%"/>
+</td>
+<td width="50%">
+  
+<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/agregarProducto.png" alt="Banner" width="110%"/>
 
-<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/buscarProducto.png" alt="Banner" width="80%"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/editarProducto.png" alt="Banner" width="110%"/>
+
+</td>
+<td width="50%">
+  
+<img src="https://github.com/XimenaLopezMedina03/CRUD_PRODUCTOS/blob/main/capturas/eliminarProducto.png" alt="Banner" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 **Autor:**
 Ximena L.
